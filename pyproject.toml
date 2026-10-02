@@ -1,0 +1,13 @@
+[project]
+name = "bad-ads-regulation"
+version = "0.1.0"
+description = "Policy-aligned online advertisement regulatory triage pipeline"
+requires-python = ">=3.10"
+dependencies = [
+  "pandas",
+  "pillow"
+]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]

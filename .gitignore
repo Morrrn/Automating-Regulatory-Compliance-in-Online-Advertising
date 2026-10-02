@@ -1,0 +1,18 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.env
+.env.*
+!.env.example
+data/
+outputs/
+*.pt
+*.pth
+*.safetensors
+*.ckpt
+*.jsonl
+*.log
+*** Add File: C:\Users\13801\Documents\Codex\ad-regulation-archive\src\bad_ads_regulation\__init__.py
+"""Policy-aligned online advertisement triage helpers."""

@@ -1,0 +1,13 @@
+{
+  "is_potential_violation": 0,
+  "risk_score": 0.0,
+  "primary_code_area": "other_or_unclear",
+  "secondary_code_areas": [],
+  "evidence_type": [],
+  "cap_code_rule_refs": [],
+  "ad_text_summary": "",
+  "visual_summary": "",
+  "rationale": "",
+  "confidence": "low",
+  "needs_human_review": true
+}
